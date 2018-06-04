@@ -1,0 +1,1 @@
+# docker-golangci-lint
