@@ -1,0 +1,14 @@
+linters-settings:
+  govet:
+    check-shadowing: true
+  gocyclo:
+    min-complexity: 7
+  goconst:
+    min-occurrences: 2
+
+linters:
+  enable-all: true
+  disable:
+    - interfacer
+    - dupl
+    - depguard
