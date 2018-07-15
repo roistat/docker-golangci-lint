@@ -12,3 +12,4 @@ linters:
     - interfacer
     - dupl
     - depguard
+    - prealloc
